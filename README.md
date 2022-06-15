@@ -1,4 +1,4 @@
-# thesis-and-project-NLP
+# thesis-and-project-NLP, toxicity detection
 There is a growing fear that toxic comments are a threat to the community of people
 in online conversations. The organizations and groups that are involved in maintaining
 the social media sites and online platforms are attempting to detect and reduce
